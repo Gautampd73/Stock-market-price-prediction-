@@ -1,2 +1,2 @@
 # Stock-market-price-prediction-
-A Machine leanring project. 
+A machine learning project. 
